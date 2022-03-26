@@ -1,2 +1,1 @@
-
-Olá, nesse projeto você aprenderá landing page
+I did this landing page to practice !
